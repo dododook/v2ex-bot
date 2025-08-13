@@ -5,7 +5,7 @@
 ## 🚀 快速部署（Docker 一键安装）
 
 ```bash
-bash <(curl -sSL https://raw.githubusercontent.com/yaoguangting/v2ex-bot/main/install.sh)
+bash <(curl -sSL https://raw.githubusercontent.com/dododook/v2ex-bot/refs/heads/main/install.sh)
 ```
 
 > 该命令将引导你输入 TELEGRAM_BOT_TOKEN 与 ADMIN_IDS，然后自动部署容器。
